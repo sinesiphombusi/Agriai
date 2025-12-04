@@ -1,7 +1,7 @@
 
-  # Multilingual AI Agent Prototype
+  # AgriAI
 
-  This is a code bundle for Multilingual AI Agent Prototype. The original project is available at https://www.figma.com/design/FDBQc4smIC2aYuPLt2xpgL/Multilingual-AI-Agent-Prototype.
+  This is a code bundle for AgriAI. The original project is available at https://www.figma.com/design/FDBQc4smIC2aYuPLt2xpgL/AgriAI.
 
   ## Running the code
 
